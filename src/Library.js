@@ -26,7 +26,7 @@ return `You have now checked out ${bookTitle} from the ${library.name}`
 
 
 
-//return string checked out
+
 
 }
 
