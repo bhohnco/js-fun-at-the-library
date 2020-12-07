@@ -11,7 +11,7 @@ describe('Librarian (class)', function() {
 
     assert.instanceOf(casey, Librarian);
   });
-
+  
   it.skip('should have a name', function() {
     var librarian = new Librarian("Casey");
 
