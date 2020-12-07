@@ -26,6 +26,7 @@ function getBookByTitle(bookTitle, shelf) {
   return shelf.find(b => {
       return (bookTitle === b.title)
     })
+
 }
 
 
