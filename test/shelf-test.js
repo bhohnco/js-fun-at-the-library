@@ -7,6 +7,7 @@ var {
   searchShelf
 } = require("../src/shelf.js")
 
+
 describe("shelf.js", function() {
   describe("shelfBook", function() {
     it("should be a function", function() {
