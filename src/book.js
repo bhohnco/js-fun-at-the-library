@@ -42,7 +42,6 @@ function editBook(ghoulBook,pageCount,number) {
   return ghoulBook.pageCount = percent
 }
 
-
 //};
 module.exports = {
   createTitle,
