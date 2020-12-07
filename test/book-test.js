@@ -9,7 +9,6 @@ var {
   editBook
 } = require("../src/book.js");
 
-
 describe("book.js", function () {
   describe("createTitle", function() {
     it("should be a function", function () {
